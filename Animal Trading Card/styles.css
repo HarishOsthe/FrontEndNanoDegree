@@ -1,0 +1,13 @@
+.card{
+    height: 720px;
+    width: 500px;
+    box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
+    border-radius: 4px;
+    background-color: darkgray;
+}
+* {
+    box-sizing: border-box;
+  }
+.inside-div{
+    text-align: center;
+}
